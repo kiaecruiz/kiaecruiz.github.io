@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'bebas_neueregular';
+    src: url('../fonts/bebasneue-regular-webfont.woff2') format('woff2'),
+         url('../fonts/bebasneue-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'casking_cream_scriptregular';
+    src: url('../fonts/casking_cream_script-webfont.woff2') format('woff2'),
+         url('../fontscasking_cream_script-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'dk_lemon_yellow_sunregular';
+    src: url('../fonts/dk_lemon_yellow_sun-webfont.woff2') format('woff2'),
+         url('../fonts/dk_lemon_yellow_sun-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'monalisaregular';
+    src: url('../fonts/monalisa-webfont.woff2') format('woff2'),
+         url('../fonts/monalisa-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'pleasewritemeasongmedium';
+    src: url('../fonts/please_write_me_a_song-webfont.woff2') format('woff2'),
+         url('../fonts/please_write_me_a_song-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
